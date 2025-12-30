@@ -1,0 +1,11 @@
+{
+    "name": "dylan-wc",
+    "category": "utilities",
+    "description": "A simple command-line utility that mimics the Unix wc command",
+    "dependencies": [],
+    "dev-dependencies": [
+        "testworks@latest"
+    ],
+    "version": "0.1.0",
+    "url": "https://github.com/britdev071809/dylan-wc"
+}
